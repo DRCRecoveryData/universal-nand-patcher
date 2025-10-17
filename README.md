@@ -1,6 +1,6 @@
 # Universal NAND Patcher Tool
 
-![2025-06-26_165612](https://github.com/user-attachments/assets/a768b139-89d3-4b20-826f-24c915f5728c)
+<img width="502" height="632" alt="image" src="https://github.com/user-attachments/assets/459f5caf-078a-401f-912d-1eed6a76abd9" />
 
 A drag-and-drop PyQt6 GUI for patching NAND `.bin` images using region definitions in a `layout.xml` file.
 
